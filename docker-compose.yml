@@ -1,0 +1,18 @@
+version: '1'
+services:
+  service1:
+    image: app-eureka
+    ports:
+      - "8761:8761"
+  service2:
+    image: app-catalog
+    ports:
+      - "8080:8080"
+  service3:
+    image: app-rating
+    ports:
+      - "8082:8082"
+  service4:
+    image: app-movie
+    ports:
+      - "8081:8081"
