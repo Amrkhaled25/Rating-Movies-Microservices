@@ -9,7 +9,6 @@ This project is a microservices-based application for rating movies. It utilizes
 - [Installation](#installation)
 - [Usage](#usage)
 - [Architecture](#architecture)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
